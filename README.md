@@ -1,3 +1,3 @@
 # Angular Routing Lecture
 
-Make sure to run `npm install` to get Express. Angular and Bootstrap are included.
+This assignment was about learning how to route requests in Angular to display specific html templates.
